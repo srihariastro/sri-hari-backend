@@ -1,0 +1,26 @@
+{
+  "CallSid": "0bc4686c0eb6f549bc3d65b15e0b18c9",
+  "EventType": "terminal",
+  "DateCreated": "2024-12-09 15:22:14",
+  "DateUpdated": "2024-12-09 15:23:00",
+  "Status": "completed",
+  "To": "07837330741",
+  "From": "08178365653",
+  "PhoneNumberSid": "01140846705",
+  "StartTime": "2024-12-09 15:22:14",
+  "EndTime": "2024-12-09 15:23:00",
+  "EventTime": "2024-12-09 15:23:00",
+  "Direction": "outbound-api",
+  "RecordingUrl": "",
+  "ConversationDuration": 12,
+  "Legs": [
+    {
+      "OnCallDuration": 38,
+      "Status": "completed"
+    },
+    {
+      "OnCallDuration": 12,
+      "Status": "completed"
+    }
+  ]
+}
